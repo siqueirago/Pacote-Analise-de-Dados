@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Julio Siqueira',
     author_email='siqueiragomes123@gmail.com',
-    url='https://github.com/siqueirago/my_data_analysis_package',
+    url='https://github.com/siqueirago/Pacote-Analise-de-dados',
     packages=find_packages(),
     install_requires=[
         'pandas>=1.1.0',
