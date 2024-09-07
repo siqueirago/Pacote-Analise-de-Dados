@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: Pacote-Analise-Dados
+Version: 0.1
+Summary: Um pacote de exemplo para análise de dados.
+Home-page: https://github.com/siqueirago/pacote-analise-dados
+Author: Julio
+Author-email: seu.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Meu Pacote AnÃ¡lise de dados
+
+Este Ã© um pacote de exemplo para fins educativos, criado para demonstrar como enviar um pacote Python para o PyPI.
+
+## InstalaÃ§Ã£o
+
+VocÃª pode instalar o pacote usando usando o gerenciador de pacotes p [pip](https://pip.pypa.io/en/stable/) para o pacote_analise_dados.
+
+## Autor
+
+Julio Siqueira
+
+## LicenÃ§a
+
+[MIT](https://choosealicense.com/licenses/mit/)

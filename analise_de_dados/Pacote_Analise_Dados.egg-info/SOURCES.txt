@@ -1,0 +1,6 @@
+README.md
+setup.py
+analise_de_dados/Pacote_Analise_Dados.egg-info/PKG-INFO
+analise_de_dados/Pacote_Analise_Dados.egg-info/SOURCES.txt
+analise_de_dados/Pacote_Analise_Dados.egg-info/dependency_links.txt
+analise_de_dados/Pacote_Analise_Dados.egg-info/top_level.txt
