@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="PacoteAnaliseDados",  # Nome do pacote
+    name="Pacote Analise Dados",  # Nome do pacote
     version="0.1",
-    packages=find_packages(where="src"),
-    package_dir={"": "src"},
+    packages=find_packages(where="analise_de_dados"),
+    package_dir={"": "analise_de_dados"},
     description="Um pacote de exemplo para análise de dados.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
