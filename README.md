@@ -1,6 +1,6 @@
-# My Data Analysis Package
+# Meu Pacote Análise de dados
 
-Este é um pacote Python simples para análise de dados utilizando Pandas.
+Este é um pacote de exemplo para fins educativos, criado para demonstrar como enviar um pacote Python para o PyPI.
 
 ## Instalação
 
